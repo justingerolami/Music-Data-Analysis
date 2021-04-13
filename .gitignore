@@ -1,0 +1,10 @@
+authorizationInformation.py
+spotifyGetRequests.py
+*.pyc
+*.csv
+*.xlsx
+*.pptx
+*.pdf
+*.zip
+lyrics/
+music_data_analysi_ progres_ report/
